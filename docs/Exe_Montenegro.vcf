@@ -1,0 +1,15 @@
+BEGIN:VCARD
+VERSION:3.0
+CLASS:PUBLIC
+PRODID:-//class_vcard from TroyWolf.com//NONSGML Version 1//EN
+REV:2015-11-27 14:47:37
+FN:Exe Montenegro
+N:Montenegro;Exe;;;
+TITLE:Director Creativo
+ORG:Estudio 27
+ADR;TYPE=work:;;Almirante Zegers 764, Oficina 2, Providencia;Santiago;;;
+EMAIL;TYPE=internet,pref:exe@estudio27.cl
+TEL;TYPE=work,voice:+56227037547
+TEL;TYPE=cell,voice:+56969046770
+TZ:+0000
+END:VCARD
